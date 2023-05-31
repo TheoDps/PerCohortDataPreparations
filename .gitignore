@@ -1,2 +1,10 @@
 tests
 .gitignore
+*html
+.nextflow*
+work/*
+singularity_img
+*.pyc
+RunDataPreparations.o[1-9][1-9][1-9][1-9][1-9][1-9][1-9]
+RunDataPreparations.e[1-9][1-9][1-9][1-9][1-9][1-9][1-9]
+bin/hase/data/*
